@@ -1,2 +1,2 @@
 # Quantum-computing
-Collection of Quantum projects on Qiskit and Pennylane
+Collection of Quantum projects using Qiskit and Pennylane
